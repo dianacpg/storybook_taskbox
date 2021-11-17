@@ -1,7 +1,6 @@
-# .github/workflows/chromatic.yml
-
 # Workflow name
-name: 'Chromatic'
+name: 'Chromatic Deployment'
+
 
 # Event for the workflow
 on: push
